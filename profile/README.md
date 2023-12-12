@@ -88,7 +88,7 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Flutter][Flutter]][Flutter-url]
-* [![Node][Node.js]][Nodeurl]
+* [![Node][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -231,5 +231,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [product-screenshot]: images/screenshot.png
 [Flutter]: https://img.shields.io/badge/Flutter-2196F3?style=for-the-badge&logo=flutter&logoColor=white
 [Flutter-url]: https://flutter.dev/
-[Node.js]: https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=nodedotjs&logoColor=61DAFB
+[Node.js]: https://img.shields.io/badge/Node-20232A?style=for-the-badge&logo=node&logoColor=61DAFB
 [Node-url]: https://node.js/
